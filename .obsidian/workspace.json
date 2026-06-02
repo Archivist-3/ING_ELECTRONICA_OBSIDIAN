@@ -1,0 +1,393 @@
+{
+  "main": {
+    "id": "069828eca9d69d00",
+    "type": "split",
+    "children": [
+      {
+        "id": "8034d151359d05de",
+        "type": "split",
+        "dimension": 52.411994784876136,
+        "children": [
+          {
+            "id": "48c28d935f935acd",
+            "type": "tabs",
+            "dimension": 81.44712430426716,
+            "children": [
+              {
+                "id": "d2ce0fea9d25b684",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Comportamiento de la estructura/Diodo No Ideal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Diodo No Ideal"
+                }
+              },
+              {
+                "id": "8f00c55883eb360d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Materiales, Estructuras/Diodos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Diodos"
+                }
+              },
+              {
+                "id": "e4ba0bca6264eead",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Comportamiento de la estructura/MOSFET (Canal Corto).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MOSFET (Canal Corto)"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "12fee70d1d1a2e6a",
+            "type": "tabs",
+            "dimension": 18.552875695732837,
+            "children": [
+              {
+                "id": "9af1093066c4b565",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Modelos, Teoría/Desplazamiento de Cargas.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Desplazamiento de Cargas"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "690fc3645c292157",
+        "type": "split",
+        "dimension": 47.58800521512386,
+        "children": [
+          {
+            "id": "be8980bb26221416",
+            "type": "tabs",
+            "dimension": 35.9925788497217,
+            "children": [
+              {
+                "id": "17497e5a83f0fcc7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Modelos, Teoría/Teoría de Bandas.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Teoría de Bandas"
+                }
+              }
+            ]
+          },
+          {
+            "id": "92398ef41dc226ea",
+            "type": "tabs",
+            "dimension": 64.00742115027829,
+            "children": [
+              {
+                "id": "698c440ab7220764",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "2583b22acd13f8d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Modelos, Teoría/Parametros/Conductividad.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Conductividad"
+                }
+              },
+              {
+                "id": "7950084f1c43cbf1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Modelos, Teoría/Parametros/Movilidad de Portadores.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Movilidad de Portadores"
+                }
+              },
+              {
+                "id": "329e4d0869896579",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Comportamiento de la estructura/Respuesta en Frecuencia.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Respuesta en Frecuencia"
+                }
+              },
+              {
+                "id": "645858c61784d18f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Comportamiento de la estructura/MOSFET (Canal Largo).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MOSFET (Canal Largo)"
+                }
+              },
+              {
+                "id": "fba94e817fefe2a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Materiales, Estructuras/Diodos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Diodos"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6526bff68cc1302f",
+    "type": "split",
+    "children": [
+      {
+        "id": "289d41974bca0e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06cc8ea99fb0be25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eec825adc9c57df3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:ShapeHexagon",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b190147b6e938e41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "right": {
+    "id": "15af6bc3908142d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d197f09403ee61a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef6d5cace6a3e8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kihära (Hive Daughters).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kihära (Hive Daughters)"
+            }
+          },
+          {
+            "id": "982702910a005975",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kihära (Hive Daughters).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kihära (Hive Daughters)"
+            }
+          },
+          {
+            "id": "2354a4213cae50bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1a72af87df6bec7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kihära (Hive Daughters).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kihära (Hive Daughters)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "698c440ab7220764",
+  "lastOpenFiles": [
+    "Modelos, Teoría/Parametros/Conductividad.md",
+    "Modelos, Teoría/Red Cristalina.md",
+    "Modelos, Teoría/Teoría de Bandas.md",
+    "Modelos, Teoría/Parametros/Movilidad de Portadores.md",
+    "Modelos, Teoría/Parametros/Masa Aparente.md",
+    "Materiales, Estructuras/Diodos.md",
+    "Comportamiento de la estructura/MOSFET (Canal Largo).md",
+    "Comportamiento de la estructura/Respuesta en Frecuencia.md",
+    "Comportamiento de la estructura/Diodo No Ideal.md",
+    "Materiales, Estructuras/Juntura P-N.md",
+    "Comportamiento de la estructura/MOSFET (Canal Corto).md",
+    "Comportamiento de la estructura/MOS NO IDEAL.md",
+    "Materiales, Estructuras/Estructura MOS.md",
+    "Materiales, Estructuras/MOSFET.md",
+    "Materiales, Estructuras/Semiconductor Intrínseco.md",
+    "Materiales, Estructuras/Semiconductor Extrínseco.md",
+    "Images/parapapa.png",
+    "Images/ps859A.tmp",
+    "Images/psE051.tmp",
+    "Images/firefox_PihczSd7DN.png",
+    "Images/ps424A.tmp",
+    "Images/firefox_ojJKjux0k5.png",
+    "Images/psD91E.tmp",
+    "Images/firefox_I3Sbgbdnp3.png",
+    "Materiales, Estructuras/Contactos Óhmicos.md",
+    "Comportamiento de la estructura/Modos de operación.md",
+    "Modelos, Teoría/Desplazamiento de Cargas.md",
+    "Images/ps2CC9.tmp",
+    "Images/firefox_8gFSQ1zYtY.png",
+    "Images/ps4914.tmp",
+    "Images/psFB3.tmp",
+    "Images/firefox_3b2aG2l1AB.png",
+    "Images/ps4224.tmp",
+    "Images/firefox_1nWsMr7PNp.png",
+    "Images/ps9240.tmp",
+    "Images/firefox_65cZ3o9zIn.png",
+    "Images/psF442.tmp",
+    "Images/firefox_PHi3FVzaek.png",
+    "Images/firefox_PiFMn8dwCT.png",
+    "Modelos, Teoría/Niveles de Energía.md",
+    "Modelos, Teoría/Parametros/Capacidad y Carga.md",
+    "Modelos, Teoría/Principio de Exclusión de Pauli.md",
+    "TODO.md",
+    "Modelos, Teoría/Parametros/Potenciales variables.md",
+    "Modelos, Teoría/Parametros/Potencial de Extracción.md"
+  ]
+}
