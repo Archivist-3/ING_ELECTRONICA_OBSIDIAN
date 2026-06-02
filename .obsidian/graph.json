@@ -18,14 +18,14 @@
       "query": "path:\"Modelos, Teoría/Parametros\"  ",
       "color": {
         "a": 1,
-        "rgb": 5410784
+        "rgb": 15656747
       }
     },
     {
       "query": "path:\"Modelos, Teoría\"  ",
       "color": {
         "a": 1,
-        "rgb": 5984992
+        "rgb": 14651168
       }
     }
   ],
@@ -37,8 +37,8 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 0,
-  "linkStrength": 1,
-  "linkDistance": 236,
-  "scale": 0.40614965542857884,
-  "close": false
+  "linkStrength": 0,
+  "linkDistance": 167,
+  "scale": 0.2896965833697642,
+  "close": true
 }
