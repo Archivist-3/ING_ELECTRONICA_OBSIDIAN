@@ -3,5 +3,6 @@
   "dataview",
   "persistent-graph",
   "extended-graph",
-  "ink"
+  "ink",
+  "obsidian-git"
 ]
