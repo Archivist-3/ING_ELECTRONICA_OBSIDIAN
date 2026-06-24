@@ -1,0 +1,1 @@
+[[Transistor BJT (Señal Fuerte)]]  

@@ -121,3 +121,5 @@ Este proceso de re-neutralización, ocurre en lo llamado $\Large \tau_d$ , tiemp
 
 Ya estás listo para abandonar el mundo donde todo está bien y tu mamá te quiere? $\large \downarrow$
 [[Diodo No Ideal|El diodo real.]]
+
+Adicionalmente, esto también te habilita a estudiar el [[Transistor BJT (Señal Débil)]]  
