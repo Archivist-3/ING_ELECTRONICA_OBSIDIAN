@@ -23,20 +23,6 @@
             }
           },
           {
-            "id": "8f00c55883eb360d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materiales, Estructuras/Diodos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diodos"
-            }
-          },
-          {
             "id": "e4ba0bca6264eead",
             "type": "leaf",
             "state": {
@@ -54,14 +40,13 @@
         "currentTab": 1
       },
       {
-        "id": "690fc3645c292157",
+        "id": "ded297843c02af2c",
         "type": "split",
         "dimension": 47.58800521512386,
         "children": [
           {
             "id": "be8980bb26221416",
             "type": "tabs",
-            "dimension": 35.9925788497217,
             "children": [
               {
                 "id": "17497e5a83f0fcc7",
@@ -80,20 +65,17 @@
             ]
           },
           {
-            "id": "92398ef41dc226ea",
+            "id": "887bb280fd4377dd",
             "type": "tabs",
-            "dimension": 64.00742115027829,
             "children": [
               {
-                "id": "2583b22acd13f8d7",
+                "id": "8f00c55883eb360d",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "graph",
                   "state": {},
-                  "pinned": true,
                   "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "title": "Vista gráfica"
                 }
               }
             ]
@@ -122,7 +104,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -233,23 +215,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2583b22acd13f8d7",
+  "active": "8f00c55883eb360d",
   "lastOpenFiles": [
-    "Materiales, Estructuras/Transistor BJT (Señal Fuerte).md",
+    "Comportamiento de la estructura/MOSFET (Canal Corto).md",
     "Materiales, Estructuras/Transistor BJT (Señal Débil).md",
-    "Modelos, Teoría/Desplazamiento de Cargas.md",
     "Materiales, Estructuras/Diodos.md",
+    "Materiales, Estructuras/Transistor BJT (Señal Fuerte).md",
+    "Modelos, Teoría/Desplazamiento de Cargas.md",
     "Comportamiento de la estructura/MOSFET (Canal Largo).md",
     "Comportamiento de la estructura/Respuesta en Frecuencia.md",
     "Modelos, Teoría/Parametros/Movilidad de Portadores.md",
@@ -260,7 +243,6 @@
     "Modelos, Teoría/Teoría de Bandas.md",
     "Modelos, Teoría/Parametros/Masa Aparente.md",
     "Comportamiento de la estructura/Diodo No Ideal.md",
-    "Comportamiento de la estructura/MOSFET (Canal Corto).md",
     "Comportamiento de la estructura/MOS NO IDEAL.md",
     "Materiales, Estructuras/Estructura MOS.md",
     "Materiales, Estructuras/MOSFET.md",
